@@ -1,2 +1,2 @@
-# WydenInformaticaBasica
-Material de Apoio Acadêmico - Disciplina Informática Básica - Área 1
+# WydenInformaticaAplicada
+Material de Apoio Acadêmico - Disciplina Informática Aplicada - Área 1
