@@ -1,2 +1,2 @@
 # WydenInformaticaAplicada
-Material de Apoio Acadêmico - Disciplina Informática Aplicada - Área 1
+Material de Apoio Acadêmico - Disciplina Informática Aplicada - UniRuy & Área 1 | Wyden
